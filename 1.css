@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+.q1 {
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    box-shadow: 0px 0px 6px 3px black;
+    border-radius: 15px;
+}
+.q2 {
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    box-shadow: 0px 0px 6px 3px black inset;
+    border-radius: 15px;
+}
+.q3 {
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    box-shadow: 3px 3px 0px 2px rgb(163, 163, 163), 6px 6px 0px 2px rgb(83, 83, 83), 9px 9px 0px 2px black;
+    border-radius: 15px;
+    border: 1px solid black;
+}
